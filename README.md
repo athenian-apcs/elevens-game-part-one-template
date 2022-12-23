@@ -1,4 +1,4 @@
-# Week 1 Day 1: Elevens Game Part One
+# Class 1: Elevens Game Part One
 
 In class today, you'll be writing some code to implement the Card and Deck classes for the Elevens game. 
 
